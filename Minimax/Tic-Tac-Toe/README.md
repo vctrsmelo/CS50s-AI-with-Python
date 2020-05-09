@@ -1,5 +1,6 @@
 # Tic-Tac-Toe
 
+[](img_demo)
 - [Youtube demo](https://www.youtube.com/watch?v=j_GQhmnDPUc)
 
 ## Algorithm implemented:
