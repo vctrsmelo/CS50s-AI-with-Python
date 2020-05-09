@@ -1,6 +1,6 @@
 # Degrees
 
-- [Youtube demo](https://www.youtube.com/watch?v=j_GQhmnDPUc)
+- [Youtube demo](https://www.youtube.com/watch?v=d-6p2Znn-O4)
 
 ## Algorithms implemented:
 
