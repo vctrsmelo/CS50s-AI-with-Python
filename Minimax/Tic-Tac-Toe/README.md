@@ -1,6 +1,6 @@
 # Tic-Tac-Toe
 
-[](img_demo.jpg)
+<img src="img_demo.png"></img>
 - [Youtube demo](https://www.youtube.com/watch?v=j_GQhmnDPUc)
 
 ## Algorithm implemented:
