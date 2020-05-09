@@ -1,6 +1,6 @@
 # AI Algorithms for CS50s AI Course
 
-I've implemented these algorithms for Harvard Online AI course.
+I implemented these algorithms for Harvard Online AI course.
 
 The projects are:
 
