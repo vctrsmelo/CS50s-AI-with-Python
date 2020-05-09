@@ -2,7 +2,7 @@
 
 - [Youtube demo](https://www.youtube.com/watch?v=j_GQhmnDPUc)
 
-## Algorithms implemented:
+## Algorithm implemented:
 
 - [Minimax - Wikipedia](https://en.wikipedia.org/wiki/Minimax)
 
