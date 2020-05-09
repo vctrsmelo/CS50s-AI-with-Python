@@ -1,9 +1,10 @@
-# AI Algorithms for CS50s AI Course
+# Tic-Tac-Toe
 
-I've implemented these algorithms for Harvard Online AI course.
+- [Youtube demo](https://www.youtube.com/watch?v=j_GQhmnDPUc)
 
-The projects are:
+## Algorithms implemented:
 
--[BFS & DFS Search: Degrees]()
+- [Minimax - Wikipedia](https://en.wikipedia.org/wiki/Minimax)
 
--[Minimax: Tic-Tac-Toe]()
+### Optimizations:
+- [Alpha-Beta pruning - Wikipedia](https://en.wikipedia.org/wiki/Alpha%E2%80%93beta_pruning)
