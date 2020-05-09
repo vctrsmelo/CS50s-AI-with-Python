@@ -6,5 +6,5 @@
 
 - [Minimax - Wikipedia](https://en.wikipedia.org/wiki/Minimax)
 
-### Optimizations:
+### Optimizations implemented:
 - [Alpha-Beta pruning - Wikipedia](https://en.wikipedia.org/wiki/Alpha%E2%80%93beta_pruning)
