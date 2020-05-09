@@ -1,6 +1,6 @@
 # Tic-Tac-Toe
 
-<img src="img_demo.png"></img>
+<img src="img_demo.png" width=200></img>
 - [Youtube demo](https://www.youtube.com/watch?v=j_GQhmnDPUc)
 
 ## Algorithm implemented:
