@@ -1,9 +1,8 @@
-# AI Algorithms for CS50s AI Course
+# Degrees
 
-I've implemented these algorithms for Harvard Online AI course.
+- [Youtube demo](https://www.youtube.com/watch?v=j_GQhmnDPUc)
 
-The projects are:
+## Algorithms implemented:
 
--[BFS & DFS Search: Degrees]()
-
--[Minimax: Tic-Tac-Toe]()
+- [Depth-first search - Wikipedia](https://en.wikipedia.org/wiki/Depth-first_search)
+- [Breadth-first search - Wikipedia](https://en.wikipedia.org/wiki/Breadth-first_search)
